@@ -1,0 +1,1 @@
+stack ghc -- -O3 -o main main.hs && ./main && open -a /Applications/Safari.app test.gif
